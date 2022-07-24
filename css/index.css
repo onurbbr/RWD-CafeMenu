@@ -5,3 +5,7 @@ h1, h2, p {
 body {
     background-color: burlywood;
 }
+
+div {
+    width: 300px;
+}
