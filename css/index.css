@@ -6,7 +6,7 @@ body {
     /* background-color: burlywood; */
 }
 
-div {
+.menu {
     width: 80%;
     background-color: burlywood;
     margin-left: auto;
