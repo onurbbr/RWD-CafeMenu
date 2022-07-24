@@ -19,10 +19,10 @@ body {
 
 .flavor {
   text-align: left;
-  width: 50%;
+  width: 75%;
 }
 
 .price {
   text-align: right;
-  width: 50%;
+  width: 25%;
 }
