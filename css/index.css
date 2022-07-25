@@ -32,6 +32,10 @@ body {
   max-width: 500px;
 }
 
+hr {
+  height: 3px;
+}
+
 .item p {
   display: inline-block;
 }
