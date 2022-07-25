@@ -34,6 +34,7 @@ body {
 
 hr {
   height: 3px;
+  background-color: brown;
 }
 
 .item p {
